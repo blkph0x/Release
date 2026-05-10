@@ -688,6 +688,7 @@ Escape
 | Delete / Backspace | Delete the selected vector node |
 | R | Reset selected node handles |
 | Backslash | Reset selected node handles |
+| ctrl + click | add node |
 
 ### Vector node operations
 
